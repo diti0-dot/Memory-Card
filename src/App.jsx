@@ -13,6 +13,7 @@ function App() {
     <>
     <div>
       <h1>GoldFish</h1>
+      <p><p className="subtitle">Click different Pokémon to score — but click the same one twice and it’s game over 🐟</p></p>
     </div>
     <Cards></Cards>
     </>
